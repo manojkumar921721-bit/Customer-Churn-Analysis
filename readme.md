@@ -98,5 +98,5 @@ Performed 20+ SQL queries including:
 ---
 
 ## Author
-
+Manojkumar
 Data Analyst Portfolio Project
